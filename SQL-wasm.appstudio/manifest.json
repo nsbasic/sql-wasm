@@ -1,0 +1,23 @@
+{
+  "short_name": "SQLSample1",
+  "name": "SQLSample1",
+  "description": "Show SQLite creating, reading, importing, exporting and deleting. It uses JSON to turn the contents of the database into a string that can easily be imported or exported.",
+  "display": "standalone",
+  "start_url": "index.html",
+  "background_color": "black",
+  "theme_color": "black",
+  "icons": [
+    {
+      "src": "nsb/images/72.png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "nsb/images/192.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "nsb/images/512.png",
+      "sizes": "512x512"
+    }
+  ]
+}

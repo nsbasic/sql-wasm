@@ -1,0 +1,62 @@
+{
+  "!type": "Form",
+  "HTML": null,
+  "action": "",
+  "attributes": "",
+  "background": "",
+  "backgroundimage": "",
+  "borderColor": "",
+  "borderStyle": "",
+  "borderWidth": "",
+  "cache_dirty": true,
+  "cached_js": null,
+  "cached_js_script_hash": null,
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "form1",
+        "Elements",
+        "TitleBar1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "form1",
+        "Elements",
+        "Container1.json"
+      ]
+    }
+  ],
+  "class": "",
+  "designHeight": 460,
+  "designWidth": 320,
+  "expanded_pmp": null,
+  "fullScreen": "true",
+  "height": 460,
+  "id": "form1",
+  "language": "JavaScript",
+  "left": 0,
+  "locked": false,
+  "method": "",
+  "modal": "false",
+  "onhide": "",
+  "onkeypress": "",
+  "onresize": "",
+  "onshow": "",
+  "onsubmit": "",
+  "openMode": "none",
+  "parentForm": "",
+  "position": "absolute",
+  "script": null,
+  "scroll_options": "mouseWheel:true,  bounce:true, zoom:false",
+  "scrolling": "false",
+  "setFocusID": "",
+  "style": "",
+  "theme": "",
+  "top": 0,
+  "width": 320
+}

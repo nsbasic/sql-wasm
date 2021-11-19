@@ -69,7 +69,6 @@ INSERT INTO hello VALUES (1, 'world');";
   db.run("INSERT INTO hello VALUES (add_js(7, 3), add_js('Hello ', 'world'));"); // Inserts 10 and 'Hello world'
 
   // Export the database to an Uint8Array containing the SQLite database file
-  
   const binaryArray = db.export();
 
 }

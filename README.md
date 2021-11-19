@@ -14,6 +14,13 @@ so it runs as an AppStudio project.
 
 The only output is to the console.
 
+The sample does not currently persist the data.
+It will get wiped out when you exit the sample.
+You can save the data for next time by writing it to IndexedDB or localStorage.
+The sample exports the database to a variable called binaryArray.
+You can write that as a single record to IndexedDB,
+then read it in again next time you run the sample.
+
 Feel free to reuse the code for your own purposes.
 If you would like to enhance it and share your work,
 please do so. We'd love to update this.

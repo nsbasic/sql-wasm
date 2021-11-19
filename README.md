@@ -9,7 +9,7 @@ It uses Sql-js from https://github.com/Sql-js/Sql.js/
 Download latest version here:
 https://github.com/Sql-js/Sql.js/releases
 
-The code within is taken from the repo with minimal changes
+The code within is taken from the Sql-js repo with minimal changes
 so it runs as an AppStudio project.
 
 The only output is to the console.
@@ -17,7 +17,7 @@ The only output is to the console.
 The sample does not currently persist the data.
 It will get wiped out when you exit the sample.
 You can save the data for next time by writing it to IndexedDB or localStorage.
-The sample exports the database to a variable called binaryArray.
+The sample exports the database to a variable named `binaryArray`.
 You can write that as a single record to IndexedDB,
 then read it in again next time you run the sample.
 

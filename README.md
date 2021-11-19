@@ -4,9 +4,7 @@ Proof of concept using sql-wasm with AppStudio.
 This sample is a proof of concept showing how to use sql-wasm 
 in an AppStudio project.
 
-It uses Sql-js from https://github.com/Sql-js/Sql.js/
-
-Download latest version here:
+It uses Sql-js from https://github.com/Sql-js/Sql.js/ Download latest version here:
 https://github.com/Sql-js/Sql.js/releases
 
 The code within is taken from the Sql-js repo with minimal changes

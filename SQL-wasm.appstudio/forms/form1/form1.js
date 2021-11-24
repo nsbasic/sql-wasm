@@ -11,6 +11,13 @@ The code below is taken from the repo with minimal changes
 so it runs as an AppStudio project.
 
 The only output is to the console.
+
+To save the database persistantly, use WASM IDBF:
+https://emscripten.org/docs/api_reference/Filesystem-API.html#filesystem-api-idbfs
+
+Here's a good article explaining what is going on:
+https://rxdb.info/slow-indexeddb.html
+
 */
 
 async function Main() {
